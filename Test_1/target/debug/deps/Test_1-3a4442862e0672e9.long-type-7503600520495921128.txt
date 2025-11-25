@@ -1,0 +1,1 @@
+fn() -> impl std::future::Future<Output = axum::Json<PlcData>> {plc_endpoint}: axum::handler::Handler<_, _>
