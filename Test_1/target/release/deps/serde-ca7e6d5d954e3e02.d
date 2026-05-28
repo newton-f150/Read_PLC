@@ -1,0 +1,14 @@
+D:\Mechatronics\Programmable_Logic_Circuit\Read_PLC\Test_1\target\release\deps\serde-ca7e6d5d954e3e02.d: C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs D:\Mechatronics\Programmable_Logic_Circuit\Read_PLC\Test_1\target\release\build\serde-a09402850eab3e9f\out/private.rs
+
+D:\Mechatronics\Programmable_Logic_Circuit\Read_PLC\Test_1\target\release\deps\libserde-ca7e6d5d954e3e02.rlib: C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs D:\Mechatronics\Programmable_Logic_Circuit\Read_PLC\Test_1\target\release\build\serde-a09402850eab3e9f\out/private.rs
+
+D:\Mechatronics\Programmable_Logic_Circuit\Read_PLC\Test_1\target\release\deps\libserde-ca7e6d5d954e3e02.rmeta: C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs D:\Mechatronics\Programmable_Logic_Circuit\Read_PLC\Test_1\target\release\build\serde-a09402850eab3e9f\out/private.rs
+
+C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+D:\Mechatronics\Programmable_Logic_Circuit\Read_PLC\Test_1\target\release\build\serde-a09402850eab3e9f\out/private.rs:
+
+# env-dep:OUT_DIR=D:\\Mechatronics\\Programmable_Logic_Circuit\\Read_PLC\\Test_1\\target\\release\\build\\serde-a09402850eab3e9f\\out

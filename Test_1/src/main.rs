@@ -33,7 +33,7 @@ async fn plc_endpoint() -> Json<PlcData> {
 async fn main() {
     let app = Router::new().route("/plc", get(plc_endpoint));
 
-    println!("Server running on http://127.0.0.1:3000");
+    println!("Server running on http://127.0.0.1:8000");
     axum::Server::bind(&"127.0.0.1:3000".parse().unwrap())
         .serve(app.into_make_service())
         .await

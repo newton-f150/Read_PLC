@@ -1,0 +1,1 @@
+fn(Json<PlcData>) -> impl std::future::Future<Output = Json<PlcData>> {read_plc}: Handler<_, _>

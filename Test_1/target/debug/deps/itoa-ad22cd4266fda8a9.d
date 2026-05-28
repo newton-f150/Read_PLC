@@ -1,0 +1,6 @@
+D:\mechatronics\programmable_Logic_Circuit\Read_Plc\Test_1\target\debug\deps\itoa-ad22cd4266fda8a9.d: C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\itoa-1.0.15\src\lib.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\itoa-1.0.15\src\udiv128.rs
+
+D:\mechatronics\programmable_Logic_Circuit\Read_Plc\Test_1\target\debug\deps\libitoa-ad22cd4266fda8a9.rmeta: C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\itoa-1.0.15\src\lib.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\itoa-1.0.15\src\udiv128.rs
+
+C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\itoa-1.0.15\src\lib.rs:
+C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\itoa-1.0.15\src\udiv128.rs:

@@ -1,0 +1,13 @@
+D:\Mechatronics\Programmable_Logic_Circuit\Read_PLC\Test_2\target\debug\deps\uuid-cd33fc97f3e57a08.d: C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\lib.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\macros.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\builder.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\error.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\non_nil.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\parser.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\fmt.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\timestamp.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\external.rs
+
+D:\Mechatronics\Programmable_Logic_Circuit\Read_PLC\Test_2\target\debug\deps\libuuid-cd33fc97f3e57a08.rmeta: C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\lib.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\macros.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\builder.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\error.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\non_nil.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\parser.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\fmt.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\timestamp.rs C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\external.rs
+
+C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\lib.rs:
+C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\macros.rs:
+C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\builder.rs:
+C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\error.rs:
+C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\non_nil.rs:
+C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\parser.rs:
+C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\fmt.rs:
+C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\timestamp.rs:
+C:\Users\23new\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.23.0\src\external.rs:
